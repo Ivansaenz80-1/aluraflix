@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Curso de React",
+    "category": "Frontend",
+    "image": "https://via.placeholder.com/150",
+    "video": "https://www.youtube.com/watch?v=xxxx",
+    "description": "Aprende React desde cero."
+  },
+  {
+    "id": 2,
+    "title": "Curso de JavaScript",
+    "category": "Frontend",
+    "image": "https://via.placeholder.com/150",
+    "video": "https://www.youtube.com/watch?v=yyyy",
+    "description": "Domina JavaScript con este curso."
+  }
+]
+
+  
